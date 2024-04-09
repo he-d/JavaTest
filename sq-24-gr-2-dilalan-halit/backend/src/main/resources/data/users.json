@@ -1,0 +1,16 @@
+[
+  {
+    "username": "harald",
+    "password": "password",
+    "email": "harald.schweiger@uibk.ac.at",
+    "firstname": "Harald",
+    "lastname": "Schweiger",
+    "notification": true,
+    "address": {
+      "street": "Technikerstraße 21a",
+      "zip": "6020",
+      "city": "Innsbruck",
+      "country": "Austria"
+    }
+  }
+]

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b93a1b6-fe98-4910-91eb-be3a61fb60d5" name="Changes" comment="manually pull and merge changes for sheet03">
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/at/ac/uibk/estore/controller/impl/UserControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/at/ac/uibk/estore/controller/impl/UserControllerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/at/ac/uibk/estore/EstoreApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/at/ac/uibk/estore/EstoreApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dYjOxBi99za3YMSB7Av5DHVPeW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.EstoreApplicationTests.executor": "Run",
+    "JUnit.EstoreApplicationTests.getTopProductsTest.executor": "Run",
+    "JUnit.EstoreApplicationTests.registerNewUser.executor": "Run",
+    "Maven. [clean,install].executor": "Run",
+    "Maven. [spring-boot:run].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "sheet03",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hed/Documents/PS/SQ/sq-24-gr-2-dilalan-halit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="at.ac.uibk.estore.init" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EstoreApplicationTests">
+    <configuration name="EstoreApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.uibk.estore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.uibk.estore" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.uibk.estore.EstoreApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstoreApplicationTests.getTopProductsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.uibk.estore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.uibk.estore" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.uibk.estore.EstoreApplicationTests" />
+      <option name="METHOD_NAME" value="getTopProductsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstoreApplicationTests.registerNewUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="estore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.ac.uibk.estore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.ac.uibk.estore" />
+      <option name="MAIN_CLASS_NAME" value="at.ac.uibk.estore.EstoreApplicationTests" />
+      <option name="METHOD_NAME" value="registerNewUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="estore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.ac.uibk.estore.EstoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EstoreApplicationTests" />
+        <item itemvalue="JUnit.EstoreApplicationTests.getTopProductsTest" />
+        <item itemvalue="JUnit.EstoreApplicationTests.registerNewUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b93a1b6-fe98-4910-91eb-be3a61fb60d5" name="Changes" comment="" />
+      <created>1710191878573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710191878573</updated>
+      <workItem from="1710191880400" duration="175000" />
+      <workItem from="1710282708953" duration="366000" />
+      <workItem from="1710283091269" duration="10000" />
+      <workItem from="1710355658032" duration="3104000" />
+      <workItem from="1710363613339" duration="1480000" />
+      <workItem from="1710969037365" duration="1605000" />
+      <workItem from="1712078762519" duration="499000" />
+      <workItem from="1712079298707" duration="1287000" />
+      <workItem from="1712259946671" duration="303000" />
+      <workItem from="1712260508145" duration="49000" />
+      <workItem from="1712261211860" duration="2752000" />
+      <workItem from="1712410079848" duration="4161000" />
+      <workItem from="1712511477033" duration="619000" />
+      <workItem from="1712523909367" duration="2329000" />
+      <workItem from="1712606245058" duration="2965000" />
+    </task>
+    <task id="LOCAL-00001" summary="manually pull and merge changes for sheet03">
+      <option name="closed" value="true" />
+      <created>1712079769521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712079769521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="manually pull and merge changes for sheet03" />
+    <option name="LAST_COMMIT_MESSAGE" value="manually pull and merge changes for sheet03" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

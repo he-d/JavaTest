@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Premium Ergonomic Office Chair",
+    "description": "Experience unparalleled comfort with our Premium Ergonomic Office Chair. This state-of-the-art chair is designed to provide exceptional lumbar support, ensuring a healthy and productive work environment. The contoured seat and adjustable armrests contribute to a personalized seating experience, while the breathable mesh back promotes optimal airflow, keeping you cool during extended work sessions.\n\nCrafted with high-quality materials, the chair features a durable steel frame and smooth-rolling casters for enhanced mobility. The sleek design seamlessly blends with any office decor, making it a stylish addition to your workspace.\n\nWhether you're working from home or in a corporate setting, our Premium Ergonomic Office Chair is a must-have for those who prioritize both comfort and style.",
+    "price": 249.99,
+    "stock": 100,
+    "category": "Furniture",
+    "image": "premium_ergonomic_chair.png",
+    "attributes": {
+      "Height": "Adjustable, 42.5 - 46.5 inches",
+      "Width": "24 inches",
+      "Material": "Mesh, Steel",
+      "Weight Capacity": "Up to 250 lbs",
+      "Color": "Black"
+    },
+    "prompt": "Generate images showcasing the Premium Ergonomic Office Chair from multiple angles. Highlight its adjustable features, sleek design, and comfort elements. Include shots of the chair in various office settings to demonstrate its versatility. Pay special attention to details such as the mesh back, armrests, and smooth-rolling casters. Provide close-ups to showcase the quality craftsmanship and materials used. Experiment with different lighting conditions to emphasize the chair's aesthetic appeal. Ensure that the images reflect the product's premium quality and ergonomic design, making it an ideal choice for professionals seeking a superior seating experience."
+  },
+  {
+    "name": "Modern Wooden Coffee Table",
+    "description": "Upgrade your living space with our Modern Wooden Coffee Table. Crafted with precision and style, this coffee table adds a touch of sophistication to any room. The table features a solid wood construction with a rich walnut finish, creating a warm and inviting atmosphere in your home.\n\nIts sleek design includes a spacious tabletop for placing drinks, books, or decorative items. The open shelf below provides additional storage space for magazines or remote controls, keeping your living room clutter-free.\n\nThe sturdy legs ensure stability, while the non-scratch foot pads protect your floors. Whether you're entertaining guests or enjoying a quiet evening, our Modern Wooden Coffee Table is the perfect centerpiece for your contemporary living room.",
+    "price": 149.99,
+    "stock": 75,
+    "category": "Furniture",
+    "image": "modern_wooden_coffee_table.png",
+    "attributes": {
+      "Dimensions": "48 x 24 x 18 inches",
+      "Material": "Solid Wood",
+      "Finish": "Walnut",
+      "Weight": "35 lbs"
+    },
+    "prompt": "Generate images showcasing the Modern Wooden Coffee Table in various living room setups. Highlight its sleek design, rich walnut finish, and practical features such as the spacious tabletop and open shelf. Capture close-ups to emphasize the quality craftsmanship and the texture of the solid wood. Experiment with different angles to showcase the table's versatility and its ability to complement different interior styles. Ensure that the images convey a sense of warmth and sophistication, making the coffee table an ideal addition to any modern home."
+  },
+  {
+    "name": "Toastestoron Toaster",
+    "description": "Introducing the Toastestoron Toaster, your ultimate kitchen companion for perfectly toasted bread every time. Designed with advanced technology and sleek aesthetics, this toaster is a must-have for breakfast enthusiasts and busy individuals alike.\n\nFeaturing a streamlined black exterior, the Toastestoron adds a touch of modern sophistication to your countertop. Its wide slots accommodate various bread sizes and types, from artisanal loaves to bagels, ensuring versatility in toasting options.\n\nEquipped with adjustable settings, including variable browning control and defrost functions, you can customize your toast to perfection. The built-in cancel button allows you to stop the toasting process at any time, while the removable crumb tray makes cleanup a breeze.\n\nStart your day right with the Toastestoron Toaster, the epitome of convenience, style, and precision in toasting technology.",
+    "price": 49.99,
+    "stock": 100,
+    "category": "Electronics",
+    "image": "toastestoron_toaster.png",
+    "attributes": {
+      "Color": "Black",
+      "Dimensions": "10 x 6 x 7 inches",
+      "Material": "Plastic, Metal",
+      "Slots": "2 wide slots"
+    },
+    "prompt": "Generate images showcasing the Toastestoron Toaster in action. Highlight its sleek black design, wide slots, and adjustable settings. Capture close-ups of the control panel and the toasting process. Experiment with different types of bread to demonstrate its versatility. Show the toaster on a countertop to illustrate its compact size and stylish appearance. Ensure that the images convey the convenience and reliability of the Toastestoron Toaster, making it a must-have appliance for every kitchen."
+  },
+  {
+    "name": "Convertible Sleeper Sofa",
+    "description": "Introducing our Convertible Sleeper Sofa, a versatile and stylish solution for modern living spaces. This sofa seamlessly combines comfort and functionality, serving as a plush seating option during the day and transforming into a cozy sleeper at night. The contemporary design features clean lines, tufted upholstery, and sturdy metal legs, adding a touch of sophistication to any room.\n\nCrafted with high-density foam, the sofa provides exceptional comfort for both sitting and sleeping. The easy-to-use mechanism allows for a smooth transition between sofa and bed, making it perfect for accommodating overnight guests or creating a comfortable lounging space.\n\nWhether you're relaxing with a book or hosting friends, our Convertible Sleeper Sofa offers a chic and practical solution for your living room or guest bedroom.",
+    "price": 399.99,
+    "stock": 50,
+    "category": "Furniture",
+    "image": "convertible_sleeper_sofa.png",
+    "attributes": {
+      "Dimensions (Sofa)": "78 x 34 x 31 inches",
+      "Dimensions (Bed)": "78 x 43 x 15 inches",
+      "Material": "Tufted Fabric, Metal",
+      "Color": "Gray"
+    },
+    "prompt": "Generate images showcasing the Convertible Sleeper Sofa in both sofa and bed configurations. Highlight the tufted upholstery, modern design, and the ease of the conversion mechanism. Capture close-ups of the fabric texture and metal legs. Experiment with different lighting to showcase the sofa's versatility in various settings. Ensure that the images convey the comfort and style of the sofa, making it a practical and fashionable addition to any contemporary home."
+  },
+  {
+    "name": "Quacky Yellow Duck Sandbag",
+    "description": "Introducing our Quacky Yellow Duck Sandbag, a delightful and playful addition to your home decor. This unique sandbag not only serves as a functional accessory but also brings a touch of whimsy to any space. Shaped like a charming yellow duck, it adds a cheerful and lighthearted vibe to your living room, nursery, or playroom.\n\nThe sandbag is crafted from high-quality fabric, ensuring durability and a soft touch. Use it as a doorstop, paperweight, or simply as a decorative item to spread smiles throughout your home. The adorable duck design is sure to be a conversation starter and a favorite among both children and adults.\n\nBrighten up your living space with the Quacky Yellow Duck Sandbag, a quirky and lovable piece that adds personality to any room.",
+    "price": 29.99,
+    "stock": 25,
+    "category": "Furniture",
+    "image": "duck_sandbag.png",
+    "attributes": {
+      "Dimensions": "12 x 8 x 6 inches",
+      "Material": "Fabric, Sand",
+      "Color": "Yellow",
+      "Weight": "2 lbs"
+    },
+    "prompt": "Generate images showcasing the Quacky Yellow Duck Sandbag in different settings. Emphasize its playful design, soft fabric, and versatility as a decorative item. Capture close-ups to highlight the details of the duck-shaped sandbag. Experiment with placement in various rooms to showcase its ability to add a whimsical touch to different spaces. Ensure that the images convey the joy and charm of the Quacky Yellow Duck Sandbag, making it a delightful and functional accessory for any home."
+  },
+  {
+    "name": "Portable Hammock with Stand",
+    "description": "Experience relaxation on the go with our Portable Hammock with Stand. Whether you're camping, hiking, or simply enjoying a day at the park, this hammock provides a comfortable and convenient way to unwind and soak in the beauty of nature.\n\nCrafted from durable yet lightweight materials, the hammock features a sturdy steel stand that sets up in minutes, eliminating the need for trees or posts. The breathable fabric cradles you in comfort, while the included carrying bag makes transportation a breeze.\n\nWith its versatile design, you can set up the hammock anywhere you go, from sandy beaches to forest clearings. Simply unfold, assemble, and relax as you sway gently in the breeze.\n\nEmbrace the serenity of outdoor living with our Portable Hammock with Stand, the perfect companion for your adventures in nature.",
+    "price": 89.99,
+    "stock": 30,
+    "category": "Leisure Goods",
+    "image": "portable_hammock.png",
+    "attributes": {
+      "Dimensions (Hammock)": "10 x 5 feet",
+      "Dimensions (Stand)": "9 x 4 x 3 feet",
+      "Weight Capacity": "Up to 300 lbs",
+      "Material": "Polyester fabric, Steel stand",
+      "Color": "Orange and White"
+    },
+    "prompt": "Generate images showcasing the Portable Hammock with Stand in various outdoor settings. Highlight its ease of setup, comfort, and portability. Capture close-ups of the fabric texture and the sturdy construction of the stand. Show individuals or groups enjoying the hammock in different environments, from beachside relaxation to forest retreats. Experiment with lighting to convey the tranquility of outdoor leisure. Ensure that the images convey the versatility and convenience of our Portable Hammock with Stand, making it an essential accessory for outdoor enthusiasts."
+  },
+  {
+    "name": "Old Betsy Rowing Boat",
+    "description": "Embark on a nostalgic journey across tranquil waters with our Old Betsy Rowing Boat. Crafted with care and reminiscent of a bygone era, this classic rowing boat offers an authentic and serene boating experience.\n\nConstructed from solid wood and reinforced with sturdy brass fittings, Old Betsy is built to withstand the test of time. Its graceful design and hand-finished details evoke a sense of timeless elegance on every voyage.\n\nWhether you're exploring a quiet lake or leisurely rowing along a meandering river, Old Betsy glides effortlessly through the water, propelled by your gentle strokes.\n\nReconnect with nature and tradition as you embrace the simple pleasures of rowing with Old Betsy, a cherished companion for your maritime adventures.",
+    "price": 1499.99,
+    "stock": 10,
+    "category": "Leisure Goods",
+    "image": "old_betsy_rowing_boat.png",
+    "attributes": {
+      "Dimensions": "12 x 4 feet",
+      "Material": "Solid wood, Brass fittings",
+      "Weight": "Approximately 150 lbs",
+      "Capacity": "Seats up to 2 adults and 1 child"
+    },
+    "prompt": "Generate images showcasing the Old Betsy Rowing Boat in serene natural settings. Highlight its classic design, sturdy construction, and graceful silhouette as it glides through the water. Capture close-ups of the hand-finished details and brass fittings. Show individuals or families enjoying leisurely rowing adventures aboard Old Betsy. Experiment with different lighting to convey the timeless charm of this classic rowing boat. Ensure that the images evoke a sense of nostalgia and tranquility, making Old Betsy a cherished addition to any boating enthusiast's collection."
+  },
+  {
+    "name": "Rustic Wooden Picture Frame",
+    "description": "Display your favorite memories with our Rustic Wooden Picture Frame. This handcrafted frame is designed to add a touch of warmth and character to your home decor. The distressed finish creates a weathered look, making it a perfect addition to any rustic or farmhouse-style interior.\n\nThe frame features a sturdy wooden construction with a glass front, ensuring durability and protection for your photos. It can be displayed on a tabletop or hung on a wall, making it a versatile option for showcasing your favorite pictures.\n\nWhether you're looking for a thoughtful gift or a stylish way to display your photos, our Rustic Wooden Picture Frame is a must-have for any home.",
+    "price": 19.99,
+    "stock": 100,
+    "category": "Furniture",
+    "image": "rustic_wooden_picture_frame.png",
+    "attributes": {
+      "Dimensions": "8 x 10 inches",
+      "Material": "Wood, Glass",
+      "Finish": "Distressed",
+      "Display": "Tabletop or Wall"
+    },
+    "prompt": "Generate images showcasing the Rustic Wooden Picture Frame in different settings. Highlight the distressed finish, handcrafted details, and the versatility of display options. Capture close-ups of the wood grain and texture. Experiment with arranging photos to demonstrate the frame's ability to complement a variety of interior styles. Play with lighting to emphasize the rustic charm of the piece. Ensure that the images reflect the frame's timeless appeal, making it a standout piece in any room."
+  },
+  {
+    "name": "Full-Length Floor Standing Mirror",
+    "description": "Elevate your home decor with our Full-Length Floor Standing Mirror. This elegant and functional mirror is designed to add a touch of sophistication to any room. Standing at a generous height, it provides a full-length reflection, making it perfect for checking your outfit before heading out or enhancing the visual appeal of your space.\n\nThe frame features a sleek and minimalist design, crafted from high-quality materials for durability and style. Whether placed in your bedroom, dressing room, or hallway, this mirror not only serves a practical purpose but also acts as a stylish accent piece.\n\nWith its freestanding design, the mirror is easy to move and position wherever needed. Upgrade your interior with the timeless beauty of our Full-Length Floor Standing Mirror.",
+    "price": 229.99,
+    "stock": 40,
+    "category": "Furniture",
+    "image": "full_length_floor_mirror.png",
+    "attributes": {
+      "Dimensions": "72 x 24 inches",
+      "Material": "Glass, Metal",
+      "Frame Finish": "Silver",
+      "Freestanding": "Yes"
+    },
+    "prompt": "Generate images showcasing the Full-Length Floor Standing Mirror in different rooms and lighting conditions. Highlight its sleek design, full-length reflection, and the versatility of placement. Capture close-ups of the frame detailing and the high-quality glass. Experiment with angles to showcase the mirror's ability to enhance the aesthetic of various spaces. Ensure that the images convey the mirror's elegance and functionality, making it a must-have addition to any home."
+  },
+  {
+    "name": "Rustic Wooden Bookshelf",
+    "description": "Add a touch of rustic charm to your home with our Rustic Wooden Bookshelf. This handcrafted piece combines functionality with aesthetic appeal, offering a stylish storage solution for your books, decor, and more. The bookshelf features a sturdy wooden frame with a distressed finish, creating a timeless and weathered look.\n\nWith five spacious shelves, this bookshelf provides ample space to organize your favorite reads or showcase decorative items. The open-back design adds an airy feel to any room, making it a versatile addition to your living room, home office, or bedroom.\n\nThe durable construction ensures long-lasting quality, and the simple yet elegant design complements a variety of interior styles. Elevate your home decor with the character and warmth of our Rustic Wooden Bookshelf.",
+    "price": 179.99,
+    "stock": 60,
+    "category": "Furniture",
+    "image": "rustic_wooden_bookshelf.png",
+    "attributes": {
+      "Dimensions": "72 x 36 x 12 inches",
+      "Material": "Solid Wood",
+      "Finish": "Distressed",
+      "Number of Shelves": "5"
+    },
+    "prompt": "Generate images showcasing the Rustic Wooden Bookshelf in different settings. Highlight the distressed finish, handcrafted details, and the spacious shelving. Capture close-ups of the wood grain and texture. Experiment with arranging books, plants, and decor items on the shelves to demonstrate the bookshelf's versatility. Play with lighting to emphasize the rustic charm of the piece. Ensure that the images reflect the bookshelf's timeless appeal, making it a standout piece in any room."
+  },
+  {
+    "name": "Cat Fountain Yin Yang",
+    "description": "Elevate your cat's drinking experience with the Cat Fountain Yin Yang. This innovative electronic fountain combines functionality with aesthetics, providing your feline friend with a constant source of fresh, flowing water while adding a touch of Zen to your home decor.\n\nInspired by the harmonious balance of Yin and Yang, this fountain features a dual-tiered design with two cascading streams of water. The circulating water encourages your cat to drink more, promoting hydration and overall well-being.\n\nCrafted from durable materials, the fountain is easy to assemble and clean, making it a convenient addition to your home. The silent pump ensures quiet operation, allowing your cat to enjoy a peaceful drinking experience.\n\nGive your cat the gift of health and tranquility with the Cat Fountain Yin Yang, a modern and stylish solution to their hydration needs.",
+    "price": 79.99,
+    "stock": 50,
+    "category": "Electronics",
+    "image": "cat_fountain_yin_yang.png",
+    "attributes": {
+      "Color": "White and Gray",
+      "Dimensions": "10 x 10 x 5 inches",
+      "Material": "Stone",
+      "Capacity": "2 liters"
+    },
+    "prompt": "Generate images showcasing the Cat Fountain Yin Yang in different settings. Highlight its dual-tiered design, flowing water streams, and tranquil appearance. Capture close-ups of the fountain with and without the cat. Experiment with placement to showcase its versatility in various rooms. Ensure that the images convey the convenience and serenity of the Cat Fountain Yin Yang, making it a must-have accessory for cat owners seeking to enhance their pet's well-being."
+  },
+  {
+    "name": "Tardis Alarm",
+    "description": "Step into the world of Doctor Who with the Tardis Alarm, a time-traveling companion that doubles as an alarm clock. Modeled after the iconic blue police box from the hit TV series, this electronic marvel brings the excitement of time and space right to your bedside.\n\nFeaturing authentic Tardis sound effects and flashing lights, the Tardis Alarm will transport you to adventures across the universe every morning. Wake up to the familiar sound of the Tardis materializing as you prepare for your own daily journeys.\n\nWith its sleek design and intuitive controls, the Tardis Alarm is not just a novelty item but a functional alarm clock that ensures you never miss an appointment in any dimension. It also includes snooze and dimmer functions for those days when you need a few extra moments to adjust to the time vortex.\n\nEmbrace your inner Time Lord and start your day in style with the Tardis Alarm, a must-have for any Doctor Who fan.",
+    "price": 39.99,
+    "stock": 30,
+    "category": "Electronics",
+    "image": "tardis_alarm.png",
+    "attributes": {
+      "Color": "Blue",
+      "Outside Dimensions": "6 x 4 x 8 inches",
+      "Inside Dimensions": "10 x 15 x 10 inches",
+      "Material": "Wood",
+      "Alarm Sound": "Authentic Tardis sounds"
+    },
+    "prompt": "Generate images showcasing the Tardis Alarm in different settings. Highlight its iconic design, flashing lights, and authentic sound effects. Capture close-ups of the control panel and the illuminated features. Experiment with placement to showcase its versatility as both a functional alarm clock and a decorative piece. Ensure that the images convey the excitement and nostalgia of Doctor Who, making the Tardis Alarm a timeless addition to any Whovian's collection."
+  },
+  {
+    "name": "xPhone",
+    "description": "Experience innovation, sophisticated design, and state-of-the-art technology with the xPhone. Crafted from high-quality materials, it's the culmination of years of research and development.\n\nThe xPhone features a built-in 48-megapixel camera for crystal-clear images. With the universal lens adapter, you can use all commercially available lenses to enhance your photography experience.\n\nUtilize the Direct-Print Function to instantly develop brilliant prints from your snapshots.\n\nAt its core is the nuclear energy cell with an average operating life of over 80 years. The xPhone features a ceramic-induction-combo-stove top integrated into the display, ensuring you never have to go without a crisp toast again, even on the move.\n\nWith sms2TOAST™ technology (patent pending), the xPhone offers unparalleled convenience. Additionally, with the optional high-power adapter kit, it assists you in all aspects of life.\n\nAvailable in all existing colors and materials, the xPhone is the epitome of innovation and functionality.",
+    "price": 999.99,
+    "stock": 1,
+    "category": "Electronics",
+    "image": "ex_phone.png",
+    "attributes": {
+      "Camera": "48 megapixel",
+      "Lens Adapter": "Universal compatibility",
+      "Interfaces": "Supports all common device interfaces",
+      "Power Source": "Nuclear energy cell with 80+ years of average operating life",
+      "Additional Features": "Ceramic-induction-combo-stove top integrated into the display, sms2TOAST™ technology (patent pending), optional high-power adapter kit",
+      "Colors": "Available in all existing colors and materials"
+    },
+    "prompt": "Generate images showcasing the xPhone in various settings. Highlight its innovative design, high-quality materials, and advanced features. Capture close-ups of the camera, lens adapter, and interface ports. Experiment with different backgrounds to showcase its versatility. Ensure that the images convey the sophistication and cutting-edge technology of the xPhone, making it the ultimate choice for tech-savvy consumers."
+  },
+  {
+    "name": "E-Board",
+    "description": "Relive the good old times with a fresh touch of innovation with the E-Board. This skateboard features an electric engine, combining the thrill of traditional skateboarding with the convenience of modern technology. Light yet robust, the E-Board is designed for riders of all levels, from beginners to seasoned pros.\n\nEquipped with an electric engine, the E-Board offers effortless cruising and exhilarating speed. Whether you're commuting to work or hitting the skate park, this board is up for the challenge. Despite its electric capabilities, the E-Board retains the agility and maneuverability needed to perform tricks like Tony Hawk.\n\nExperience the freedom of electric skateboarding without compromising on performance. The E-Board is built to withstand the rigors of daily use, ensuring durability and longevity. Ride with confidence and style on the E-Board, where nostalgia meets innovation.",
+    "price": 566.99,
+    "stock": 10,
+    "category": "Electronics",
+    "image": "e_board.png",
+    "attributes": {
+      "Engine Type": "Brushless",
+      "Weight": "1kg",
+      "Max Speed": "30km/h",
+      "Battery Life": "Up to 20km",
+      "Dimensions": "31 x 8 inches",
+      "Material": "Maple wood, Aluminum"
+    },
+    "prompt": "Generate images showcasing the E-Board in action. Highlight its electric engine, sleek design, and versatility. Capture riders performing tricks to demonstrate its maneuverability and performance. Show the board in various settings, from urban streets to skate parks. Ensure that the images convey the excitement and nostalgia of skateboarding while showcasing the innovation of the E-Board."
+  },
+  {
+    "name": "Invisible TV Screen",
+    "description": "Experience the future of home entertainment with our Invisible TV Screen. This cutting-edge technology redefines the way you watch television by seamlessly blending into your home decor when not in use.\n\nUsing advanced transparent display technology, the Invisible TV Screen appears as a clear pane of glass when turned off, allowing you to enjoy an unobstructed view of your living space. When activated, vibrant images and lifelike visuals magically appear. You only need a strong imagination!\n\nWith ultra-high-definition resolution and smart connectivity features, our Invisible TV Screen delivers stunning picture quality and seamless integration with your favorite streaming services your mind can come up with.\n\nSay goodbye to bulky main stream television and hello to minimalist elegance with our Invisible TV Screen, the ultimate fusion of technology, design and scam.",
+    "price": 2999.99,
+    "stock": 15,
+    "category": "Electronics",
+    "image": "invisible_tv_screen.png",
+    "attributes": {
+      "Display Technology": "Transparent display",
+      "Resolution": "Ultra-high-definition",
+      "Smart Features": "Smart connectivity for streaming services and devices",
+      "Installation": "Freestanding",
+      "Screen Dimensions": "55 inches",
+      "Color": "Transparent",
+      "Weight": "30 lbs",
+      "Material": "Steel",
+      "Power Consumption": "None"
+    },
+    "prompt": "Generate images showcasing the Invisible TV Screen in various room settings. Highlight its seamless integration with home decor and its ability to blend in as a clear pane of glass when turned off. Show the TV screen in action, displaying vibrant images and lifelike visuals. Capture close-ups of the display technology and smart features. Experiment with different lighting conditions to showcase its versatility. Ensure that the images convey the futuristic appeal and minimalist elegance of the Invisible TV Screen, making it a centerpiece of any modern home."
+  },
+  {
+    "name": "High-Performance Flippers",
+    "description": "Dive into the ultimate swimming experience with our High-Performance Flippers. Designed for serious swimmers and aquatic enthusiasts, these flippers offer unparalleled propulsion and agility in the water.\n\nCrafted from high-quality materials, the flippers feature a streamlined design to minimize drag and maximize efficiency. The flexible yet durable blades ensure optimal power transfer with each kick, allowing you to glide effortlessly through the water.\n\nWhether you're training for competition or simply enjoying a leisurely swim, our High-Performance Flippers are the perfect companion to enhance your aquatic adventures.",
+    "price": 69.99,
+    "stock": 50,
+    "category": "Leisure Goods",
+    "image": "high_performance_flippers.png",
+    "attributes": {
+      "Sizes": "Available in various sizes for a custom fit",
+      "Material": "High-grade rubber and polymer blend",
+      "Color": "Black with accent colors"
+    },
+    "prompt": "Generate images showcasing the High-Performance Flippers in action. Highlight their sleek design, efficient propulsion, and comfortable fit. Capture close-ups of the blade structure and the materials used. Show the flippers being worn by swimmers in both training and leisure settings. Experiment with underwater shots to illustrate their performance. Ensure that the images convey the versatility and quality of our High-Performance Flippers, making them a must-have for swimming enthusiasts."
+  },
+  {
+    "name": "SpaceX Model Rocket",
+    "description": "Blast off into the final frontier with our SpaceX Model Rocket. Inspired by the groundbreaking innovations of SpaceX, this model rocket brings the excitement of space exploration to your fingertips.\n\nConstructed with precision and attention to detail, our model rocket replicates the sleek design and functionality of its real-life counterpart. With a powerful propulsion system, it can soar to heights of up to 1 kilometer, providing an exhilarating experience for aspiring astronauts and space enthusiasts alike.\n\nWhether you're launching from your backyard or a designated launch site, the SpaceX Model Rocket delivers an unforgettable journey into the skies above.\n\nIgnite your imagination and fuel your passion for space exploration with our SpaceX Model Rocket, the perfect blend of science, technology, and adventure.",
+    "price": 199.99,
+    "stock": 20,
+    "category": "Leisure Goods",
+    "image": "spacex_model_rocket.png",
+    "attributes": {
+      "Flying Height": "Up to 1 kilometer",
+      "Material": "Durable composite materials",
+      "Assembly": "Requires assembly",
+      "Recommended Age": "14 years and up",
+      "Required License": "Check local regulations for launch permits"
+    },
+    "prompt": "Generate images showcasing the SpaceX Model Rocket in action. Highlight its sleek design, powerful propulsion, and impressive altitude capabilities. Capture close-ups of the rocket's details and assembly process. Show the rocket being launched from various angles, with clear blue skies as a backdrop. Experiment with different camera angles to capture the excitement of liftoff. Ensure that the images convey the thrill and wonder of space exploration, making the SpaceX Model Rocket a must-have for enthusiasts of all ages."
+  },
+  {
+    "name": "Quacky Water Wings",
+    "description": "Make a splash with our Quacky Water Wings! Designed for little swimmers, these adorable water wings add an extra layer of fun and safety to pool time adventures.\n\nShaped like friendly ducks, these water wings are sure to bring smiles to children's faces as they paddle and play in the water. Made from durable and buoyant materials, Quacky Water Wings provide added confidence for young swimmers as they learn to navigate the pool.\n\nWith adjustable straps for a secure fit, these water wings are suitable for children ages 3 to 6 years old. Whether they're taking their first strokes or practicing their doggy paddle, Quacky Water Wings ensure a quacking good time in the pool!\n\nIntroduce your little one to the joys of swimming with our Quacky Water Wings, the perfect companion for aquatic adventures.",
+    "price": 14.99,
+    "stock": 50,
+    "category": "Leisure Goods",
+    "image": "quacky_water_wings.png",
+    "attributes": {
+      "Design": "Duck-shaped",
+      "Age Range": "3 to 6 years old",
+      "Material": "Rubber, Vinyl",
+      "Adjustable Straps": "Yes"
+    },
+    "prompt": "Generate images showcasing the Quacky Water Wings in action. Highlight their adorable duck-shaped design and adjustable straps for a secure fit. Show children wearing the water wings as they splash and play in the pool. Capture close-ups of the details and vibrant colors of the water wings. Experiment with different pool settings to showcase their versatility. Ensure that the images convey the joy and safety that Quacky Water Wings bring to young swimmers, making them a must-have accessory for poolside fun."
+  }
+]
